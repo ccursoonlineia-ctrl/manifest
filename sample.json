@@ -1,7 +1,7 @@
 {
   "name": "Lottery Ticket #1",
   "description": "Boleto de loteria NFT unico e intransferible",
-  "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAiIGhlaWdodD0nMjAwJz48Y2lyY2xlIGN4PScxMDAnIGN5PScxMDAnIHI9Jzc1JyBmaWxsPSdyZWQnIC8+PC9zdmc+",
+  "image": "https://www.iconsdb.com/icons/preview/orange/semaphore-2-xl.png",
   "attributes": [
     {
       "trait_type": "Serie",
